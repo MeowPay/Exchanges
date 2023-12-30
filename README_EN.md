@@ -7,6 +7,7 @@ Also see https://www.getmonero.org/community/merchants/
 | Name                                                      | Fiat | No KYC |
 | :-------------------------------------------------------- | :--- | :----- |
 | [LocalMonero](https://localmonero.co/buy-monero-with-cny) | ✅    | ✅      |
+| [Bisq](https://bisq.network/)                             | ✅    | ✅      |
 | ...                                                       |      |        |
 
 ## CEXes
@@ -18,10 +19,12 @@ Also see https://www.getmonero.org/community/merchants/
  
 ## Swappers（推荐）
 
-| Name                                   | No registration |
-| :------------------------------------- | --------------- |
-| [FixedFloat](https://fixedfloat.com/)  | ✅               |
-| [SimpleSwap](https://simpleswap.io/cn) | ✅               |
-| [ChangeNow](https://changenow.io/zh)   | ✅               |
-| [Godex](https://godex.io/zh)           | ✅               |
-| ...                                    |                 |
+| Name                                  | No registration |
+| :------------------------------------ | --------------- |
+| [FixedFloat](https://fixedfloat.com/) | ✅               |
+| [SimpleSwap](https://simpleswap.io/)  | ✅               |
+| [ChangeNow](https://changenow.io/)    | ✅               |
+| [Godex](https://godex.io/)            | ✅               |
+| [Nanswap](https://nanswap.com/)       | ✅               |
+| [Trocador](https://trocador.app/)     | ✅               |
+| ...                                   |                 |
