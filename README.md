@@ -27,6 +27,8 @@
 | [Godex](https://godex.io/zh)              | ✅          | ✅    |
 | [Nanswap](https://nanswap.com/)           | ✅          | ❌    |
 | [Trocador](https://trocador.app/zh-hans/) | ✅          | ✅    |
+| [ChangeHero](https://changehero.io/)      | ✅          | ❌    |
+| [StealthEX](https://stealthex.io/)        | ✅          | ❌    |
 | ...                                       |            |      |
 
 

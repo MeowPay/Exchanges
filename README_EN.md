@@ -27,4 +27,6 @@ Also see https://www.getmonero.org/community/merchants/
 | [Godex](https://godex.io/)            | ✅               |
 | [Nanswap](https://nanswap.com/)       | ✅               |
 | [Trocador](https://trocador.app/)     | ✅               |
+| [ChangeHero](https://changehero.io/)  | ✅               |
+| [StealthEX](https://stealthex.io/)    | ✅               |
 | ...                                   |                 |
