@@ -13,7 +13,6 @@
 ## CEX 中心化交易所
 | 名称                                                     | 支持法币 | 无需KYC |
 | :------------------------------------------------------- | :------- | :------ |
-| [Binance](https://www.binance.com/en/crypto/buy/USD/XMR) | ❌        | ❌       |
 | [Kraken](https://www.kraken.com)                         | ❌        | ❌       |
 | ...                                                      |          |         |
  

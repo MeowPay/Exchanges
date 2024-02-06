@@ -13,7 +13,6 @@ Also see https://www.getmonero.org/community/merchants/
 ## CEXes
 | Name                                                     | Fiat | No KYC |
 | :------------------------------------------------------- | :--- | :----- |
-| [Binance](https://www.binance.com/en/crypto/buy/USD/XMR) | ❌    | ❌      |
 | [Kraken](https://www.kraken.com)                         | ❌    | ❌      |
 | ...                                                      |      |        |
  
